@@ -1,0 +1,14 @@
+INPUT(
+./release/main.o
+./release/gamewindow.o
+./release/gamescene.o
+./release/birditem.o
+./release/buttonitem.o
+./release/roaditem.o
+./release/qrc_birdsource.o
+./release/moc_gamewindow.o
+./release/moc_gamescene.o
+./release/moc_birditem.o
+./release/moc_buttonitem.o
+./release/moc_roaditem.o
+);

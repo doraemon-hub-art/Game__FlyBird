@@ -1,0 +1,15 @@
+INPUT(
+./debug/main.o
+./debug/gamewindow.o
+./debug/gamescene.o
+./debug/birditem.o
+./debug/buttonitem.o
+./debug/roaditem.o
+./debug/pipeitem.o
+./debug/qrc_birdsource.o
+./debug/moc_gamewindow.o
+./debug/moc_gamescene.o
+./debug/moc_birditem.o
+./debug/moc_buttonitem.o
+./debug/moc_roaditem.o
+);
